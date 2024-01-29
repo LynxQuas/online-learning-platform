@@ -29,7 +29,7 @@ const Navbar = () => {
                 activeLink={activeLink}
             />
 
-            <div>
+            <div className="bg-green-600 py-1 px-4 rounded-lg font-semibold">
                 <Link to="/login">Login</Link>
             </div>
 
